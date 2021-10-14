@@ -1,0 +1,116 @@
+{
+  "contractName": "TokenFarm",
+  "abi": [],
+  "metadata": "{\"compiler\":{\"version\":\"0.5.16+commit.9c3226ce\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"methods\":{}},\"userdoc\":{\"methods\":{}}},\"settings\":{\"compilationTarget\":{\"project:/src/contracts/TokenFarm.sol\":\"TokenFarm\"},\"evmVersion\":\"petersburg\",\"libraries\":{},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"project:/src/contracts/TokenFarm.sol\":{\"keccak256\":\"0x05a75b745d7a911f6d8cf1c92c9529f859c7c05d20c0d90a05169f27f422f741\",\"urls\":[\"bzz-raw://898f2b0b46a0b305de642fd5ec997d02f8cdd25a86e01ba363a5a8bea8488ce3\",\"dweb:/ipfs/QmPz1DVs8WZCK7CUuGq4vXcyaMehdmUBghG7WmLc31ZhYB\"]}},\"version\":1}",
+  "bytecode": "0x6080604052348015600f57600080fd5b50603e80601d6000396000f3fe6080604052600080fdfea265627a7a72315820efcfa684793a2bb538a1984c1202222c30f03fb86c3e1e396b2c881b837592ca64736f6c63430005100032",
+  "deployedBytecode": "0x6080604052600080fdfea265627a7a72315820efcfa684793a2bb538a1984c1202222c30f03fb86c3e1e396b2c881b837592ca64736f6c63430005100032",
+  "sourceMap": "28:35:3:-;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;28:35:3;;;;;;;",
+  "deployedSourceMap": "28:35:3:-;;;;;",
+  "source": "pragma solidity >=0.5.0;\r\n\r\ncontract TokenFarm {\r\n    //code\r\n}",
+  "sourcePath": "C:\\Users\\esamk\\Documents\\Programming\\DeFi-App\\src\\contracts\\TokenFarm.sol",
+  "ast": {
+    "absolutePath": "project:/src/contracts/TokenFarm.sol",
+    "exportedSymbols": {
+      "TokenFarm": [
+        421
+      ]
+    },
+    "id": 422,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 420,
+        "literals": [
+          "solidity",
+          ">=",
+          "0.5",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:24:3"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": null,
+        "fullyImplemented": true,
+        "id": 421,
+        "linearizedBaseContracts": [
+          421
+        ],
+        "name": "TokenFarm",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 422,
+        "src": "28:35:3"
+      }
+    ],
+    "src": "0:63:3"
+  },
+  "legacyAST": {
+    "attributes": {
+      "absolutePath": "project:/src/contracts/TokenFarm.sol",
+      "exportedSymbols": {
+        "TokenFarm": [
+          421
+        ]
+      }
+    },
+    "children": [
+      {
+        "attributes": {
+          "literals": [
+            "solidity",
+            ">=",
+            "0.5",
+            ".0"
+          ]
+        },
+        "id": 420,
+        "name": "PragmaDirective",
+        "src": "0:24:3"
+      },
+      {
+        "attributes": {
+          "baseContracts": [
+            null
+          ],
+          "contractDependencies": [
+            null
+          ],
+          "contractKind": "contract",
+          "documentation": null,
+          "fullyImplemented": true,
+          "linearizedBaseContracts": [
+            421
+          ],
+          "name": "TokenFarm",
+          "nodes": [
+            null
+          ],
+          "scope": 422
+        },
+        "id": 421,
+        "name": "ContractDefinition",
+        "src": "28:35:3"
+      }
+    ],
+    "id": 422,
+    "name": "SourceUnit",
+    "src": "0:63:3"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.5.16+commit.9c3226ce.Emscripten.clang"
+  },
+  "networks": {},
+  "schemaVersion": "3.4.3",
+  "updatedAt": "2021-10-14T19:24:52.002Z",
+  "devdoc": {
+    "methods": {}
+  },
+  "userdoc": {
+    "methods": {}
+  }
+}
